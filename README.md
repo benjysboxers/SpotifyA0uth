@@ -4,7 +4,7 @@ Python code using the Spotify API and Other Libraries to get access to and displ
 How It Works:
 Create a Spotify/Sign into already existing Spotify Account
 
-Go On The Spotify Developer Portal, this is how you interact with the Spotify API mostly And you Should see these three things below:
+Go On The Spotify Developer Portal, this is how you interact with the Spotify API mostly And you Should see these two things below:
 
 ![image](https://user-images.githubusercontent.com/94329833/188719063-4fadfb68-f341-4890-8c25-e4451fa67773.png)
 
